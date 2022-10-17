@@ -1,0 +1,29 @@
+{
+  "name": "zigy-alt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@api.video/nodejs-sdk": "^1.10.4",
+    "app-root-path": "^3.1.0",
+    "body-parser": "^1.20.1",
+    "cloudinary": "^1.32.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "email-validator": "^2.0.4",
+    "express": "^4.18.2",
+    "formidable": "^2.0.1",
+    "fs": "^0.0.1-security",
+    "intercom-client": "^3.1.5",
+    "mongoose": "^6.6.5",
+    "multer": "^1.4.5-lts.1",
+    "serve-favicon": "^2.5.0"
+  }
+}
